@@ -13,4 +13,12 @@ Welcome to my **AI Journey** repository! This repo documents all the projects I 
 - Folder: `crypto-bot/`
 - [More details](crypto-bot/README.md)
 
-## 📂 Repo Structure
+---
+
+### 2. AI Classifier — Predicting Categories with Machine Learning
+
+- Uses machine learning to classify data into categories
+- Beginner-friendly introduction to ML with Scikit-learn
+- Includes accuracy reports & performance metrics
+- Folder: `iris_ml/`
+- [More details](iris_ml/README.md)
